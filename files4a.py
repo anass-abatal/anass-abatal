@@ -7,14 +7,14 @@ if len(sys.argv) < 3:
 
 myfile1 = open(sys.argv[1])
 myfile2 = open(sys.argv[2])
-lines1 = myfile1.readlines()
+lines10 = myfile1.readlines()
 lines2 = myfile2.readlines()
 
-if len(lines1) != len(lines2):
+if len(lines10) != len(lines2):
     print('The files are different')
 else:
     i = 0
-    for myline1 in lines1:
+    for myline1 in lines10:
         myline2 = lines2[i]
         if myline1 != myline2:
             print('The files are different')
