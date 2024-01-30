@@ -55,7 +55,7 @@ Some resources I find helpful:
 
 - **September 2023**: Initiated my web development journey by learning HTML, CSS, and XML/XPath, json . Simultaneously, delved into Python and MariaDB SQL for backend development. Also, gained knowledge about computer systems and information technology.
 
-- **January 2024**: Continued building on my foundational knowledge, completed CSS tutorials, and ventured into JavaScript fundamentals.
+- **January 2024**: Continued building on my foundational knowledge.
 
 - **February 2024**: Developed a simple portfolio website using HTML, CSS, and started exploring JavaScript for enhanced interactivity.
 
